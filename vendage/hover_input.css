@@ -1,0 +1,6 @@
+input[type=text]:focus {
+    width: 100%;
+  }
+  input[type=number]:focus {
+    width: 100%;
+  }

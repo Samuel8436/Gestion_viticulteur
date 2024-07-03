@@ -1,0 +1,11 @@
+
+    input.uppercase {
+    text-transform: uppercase;
+    }
+
+    input.capitalize {
+        text-transform: capitalize;
+      }
+    /* input[type='text'] {
+        height: 920px;
+    } */

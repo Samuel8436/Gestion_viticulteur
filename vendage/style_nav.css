@@ -1,0 +1,9 @@
+nav {
+    /* background-color: rgb(31, 27, 27); */
+}
+img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid;
+}
